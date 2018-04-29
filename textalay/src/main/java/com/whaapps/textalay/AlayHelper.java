@@ -1,4 +1,4 @@
-package com.whaapps.belajarmembuatlibrary;
+package com.whaapps.textalay;
 
 /**
  * Created by whaapps on 29/04/18.
